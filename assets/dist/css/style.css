@@ -58,6 +58,10 @@ Support email: mylifedesign143@gmail.com
   border-radius: 15px; padding: 10px;
   position: relative;*/
 }
+
+.__imgsize img{
+  height: 90px;
+}
 /*custome style end*/
 
 
