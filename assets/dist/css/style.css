@@ -200,6 +200,9 @@ button:focus {
 .pt-50 {
   padding-top: 50px !important; }
 
+.pt-11 {
+  padding-top: 11px !important; }
+
 .pb-100 {
   padding-bottom: 100px !important; }
 
@@ -702,7 +705,7 @@ ol.linenums li {
 08 - Hero Templates Style
 */
 .fullscreen-hero {
-  height: 50vh; }
+  height: 60vh; }
 
 .half-hero {
   height: auto;
