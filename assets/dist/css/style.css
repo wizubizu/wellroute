@@ -705,7 +705,7 @@ ol.linenums li {
 08 - Hero Templates Style
 */
 .fullscreen-hero {
-  height: 60vh; }
+  height: 100vh; }
 
 .half-hero {
   height: auto;
@@ -723,9 +723,9 @@ ol.linenums li {
     background-color: rgba(93, 51, 251, 0.75);
     z-index: 1; }
     .hero .hero-overlay.hero-gradient {
-      background-color: rgba(93, 51, 251, 0.5);
-      background-image: -webkit-linear-gradient(0deg, rgba(93, 51, 251, 0.75), rgba(78, 239, 237, 0.75));
-          background-image: linear-gradient(90deg, rgba(35, 35, 37, 0.85), rgba(62, 90, 90, 0.75)); }
+      background-color: rgba(62, 90, 90, 0.75);
+      background-image: -webkit-linear-gradient(0deg, rgba(35, 35, 37, 0.85), rgba(62, 90, 90, 0.75));
+      background-image: linear-gradient(90deg, rgba(93, 51, 251, 0.75), rgba(78, 239, 237, 0.75)); }
   .hero.dark .text-large, .hero.dark p {
     color: #fff; }
   .hero .text-large {
