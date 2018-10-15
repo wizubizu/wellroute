@@ -705,7 +705,9 @@ ol.linenums li {
 08 - Hero Templates Style
 */
 .fullscreen-hero {
-  height: 100vh; }
+  /*height: 100vh;*/
+  height: 88vh;
+   }
 
 .half-hero {
   height: auto;
